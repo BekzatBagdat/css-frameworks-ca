@@ -1,0 +1,11 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+@import "../scss/components/navbar.scss";
+@import "../scss/components/button.scss";
+@import "../scss/components/posts.scss";
+@import "../scss/pages/login.scss";
+@import "../scss/pages/profile.scss";
+@import "../scss/pages/feed.scss";
+:root {
+  --bs-body-font-family: "Oxygen", sans-serif;
+}
