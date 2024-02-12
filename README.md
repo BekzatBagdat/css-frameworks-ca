@@ -3,6 +3,8 @@
 MyOpinion is a social media app where people can share their thoughts and opinions on various subjects
 
 
+![screencapture-myopinion-bekzatbagdat-netlify-app-feed-2024-02-12-19_45_28](https://github.com/BekzatBagdat/css-frameworks-ca/assets/89454659/31dc82c9-55e9-46e0-82dd-5982f53ccc12)
+
 
 
 ## Description
