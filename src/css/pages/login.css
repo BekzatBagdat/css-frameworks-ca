@@ -1,0 +1,45 @@
+.authentication-body {
+  background-color: #f5f5f5;
+  color: #363062;
+}
+
+/*card*/
+.login-card {
+  background-color: #363062;
+  color: #f5f5f5;
+  border-radius: 60px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-body h4 {
+  font-weight: bold;
+  letter-spacing: -2%;
+  color: #f5f5f5;
+}
+
+/*Form*/
+.form-control {
+  color: #363062;
+  background-color: #f5f5f5;
+}
+
+.form-control:focus {
+  color: #363062;
+  background-color: #f5f5f5;
+  border-color: #4d4c7d;
+  box-shadow: 0 0 0 0.25rem #4d4c7d;
+}
+
+.form-check-input:focus {
+  border-color: #4d4c7d;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem #4d4c7d;
+}
+
+.form-check-input:checked {
+  background-color: #f99417;
+  border-color: #f99417;
+}
+
+/*# sourceMappingURL=login.css.map */

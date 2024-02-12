@@ -1,0 +1,67 @@
+.navbar {
+  background-color: #363062;
+}
+
+.navbar-brand {
+  color: #f5f5f5;
+  font-weight: bold;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+  color: #e4e4e4;
+}
+
+.nav-link {
+  display: block;
+  padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+  font-size: var(--bs-nav-link-font-size);
+  font-weight: var(--bs-nav-link-font-weight);
+  color: var(--bs-nav-link-color);
+  text-decoration: none;
+  background: none;
+  border: 0;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.nav-link {
+  display: block;
+  color: #f5f5f5;
+  text-decoration: none;
+  background: none;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #f99417;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #e4e4e4;
+}
+
+.navbar-toggler {
+  color: transparent;
+  border: none;
+}
+
+.search-bar-content input {
+  align-self: center;
+  height: 30px;
+  border-radius: 80px;
+}
+
+.search-bar-content button {
+  height: 30px;
+  line-height: 0;
+  border-radius: 80px;
+}
+
+/*footer style*/
+.footer-content {
+  background-color: #363062;
+  color: #f5f5f5;
+}
+
+/*# sourceMappingURL=navbar.css.map */
