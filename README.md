@@ -1,11 +1,9 @@
 # MyOpinion
 
-
-
-
-MyOpinion Social Media: 
-
 MyOpinion is a social media app where people can share their thoughts and opinions on various subjects
+
+
+
 
 ## Description
 
