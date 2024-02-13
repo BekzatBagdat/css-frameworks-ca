@@ -6,6 +6,7 @@
 @import "../scss/pages/login.scss";
 @import "../scss/pages/profile.scss";
 @import "../scss/pages/feed.scss";
-:root {
+@import "../scss/components/color.scss";
+:root  {
   --bs-body-font-family: "Oxygen", sans-serif;
 }

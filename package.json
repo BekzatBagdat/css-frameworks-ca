@@ -13,7 +13,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "sass src/scss:src/css --watch",
+    "watch": "sass src/scss:dist/css --watch",
     "start": "live-server",
     "dev": "npm-run-all --parallel watch start"
   },
