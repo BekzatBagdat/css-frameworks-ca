@@ -1,9 +1,4 @@
-$white: #f5f5f5;
-$lessWhite: #e4e4e4;
-$purple: #363062;
-$lightPurple: #4d4c7d;
-$orange: #f99417;
-
+@import "../variables/color.scss";
 .navbar {
   background-color: $purple;
 }
